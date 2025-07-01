@@ -1,7 +1,7 @@
 <a href="https://pandora-llm.readthedocs.io/en/latest/"><img alt="Documentation" src="https://img.shields.io/website?url=https%3A%2F%2Fpandora-llm.readthedocs.io%2Fen%2Flatest%2F&up_message=sphinx&label=docs&color=blue"></a>
-<a href="https://pypi.org/project/pandora-llm/"><img alt="Python version" src="https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fsafr-ai-lab%2Fpandora-llm%2Fblob%2Fmain%2Fpyproject.toml&color=green"></a>
-<a href="https://github.com/safr-ai-lab/pandora-llm/blob/main/LICENSE.txt"><img alt="Code license" src="https://img.shields.io/github/license/safr-ai-lab/pandora-llm?color=blue"></a>
-<a href="https://github.com/safr-ai-lab/pandora-llm/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/safr-ai-lab/pandora-llm?color=green"></a>
+<a href="https://pypi.org/project/pandora-llm/"><img alt="Python version" src="https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fsafr-ai-lab%2Fpandora_llm%2Fblob%2Fmain%2Fpyproject.toml&color=green"></a>
+<a href="https://github.com/safr-ai-lab/pandora_llm/blob/main/LICENSE.txt"><img alt="Code license" src="https://img.shields.io/github/license/safr-ai-lab/pandora_llm?color=blue"></a>
+<a href="https://github.com/safr-ai-lab/pandora_llm/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/safr-ai-lab/pandora_llm?color=green"></a>
 
 <p align="center">
    <img src="docs/source/assets/pandora_llm_title.png" alt="drawing" width="600"/>
