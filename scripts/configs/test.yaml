@@ -1,0 +1,7 @@
+dataset:
+  name: "pile"
+model:
+  name: "hi"
+  revision: "bye"
+features: ["loss","min-k"]
+classifier: "threshold"
