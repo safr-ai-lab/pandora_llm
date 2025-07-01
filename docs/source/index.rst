@@ -31,7 +31,7 @@ From pip::
 
 From source::
 
-    git clone https://github.com/safr-ai-lab/pandora-llm.git
+    git clone https://github.com/safr-ai-lab/pandora_llm.git
     pip install -e .
 
 Quickstart
