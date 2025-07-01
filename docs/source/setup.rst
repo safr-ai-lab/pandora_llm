@@ -13,7 +13,7 @@ From source:
 
 .. code-block:: bash
 
-   git clone https://github.com/safr-ai-lab/pandora-llm.git
+   git clone https://github.com/safr-ai-lab/pandora_llm.git
    pip install -e .
 
 Our library has been tested on Python 3.10 on Linux with GCC 11.2.0.
