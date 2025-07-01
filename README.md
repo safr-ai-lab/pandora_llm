@@ -35,7 +35,7 @@ pip install pandora-llm
 From source:
 
 ```bash
-git clone https://github.com/safr-ai-lab/pandora-llm.git
+git clone https://github.com/safr-ai-lab/pandora_llm.git
 pip install -e .
 ```
 
