@@ -52,7 +52,7 @@ bash scripts/run_mia_baselines_pile.sh
 ```
 
 ## Contributing
-We welcome contributions! Please submit pull requests in our [GitHub](https://github.com/safr-ai-lab/pandora-llm).
+We welcome contributions! Please submit pull requests in our [GitHub](https://github.com/safr-ai-lab/pandora_llm).
 
 
 ## Authors
